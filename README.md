@@ -100,12 +100,7 @@ Install the required libraries before running the code:
 ---
 
 #### **Contributing:**  
-Feel free to contribute to this project by adding advanced analysis or visualizations.  
-
----
-
-#### **License:**  
-This project is open-source and available under the [MIT License](LICENSE).  
+Feel free to contribute to this project by adding advanced analysis or visualizations.   
 
 ---
 
